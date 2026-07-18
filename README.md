@@ -1,4 +1,4 @@
-# GrandMA3-Layout-bordercolors
+# GrandMA3-Layout-border-colors
 A plugin to assign boarder colors on fixture layout objects sorted by fixturetype.
 
 Copy code from LayoutColorsMainV2 to componet 1 in a GrandMA3 plugin. <br />
