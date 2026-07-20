@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.4.2.2">
+	<Plugin Index="1" Name="Layout Colors" Path="layoutColors_src" Version="1.0.0.0" Author="fedde31">
+		<ComponentLua Index="1" Name="Main" FileName="LayoutColorsMainV2.lua" />
+        <ComponentLua Index="2" Name="UI" FileName="LayoutColorsUIV2.lua" />
+        <ComponentLua Index="3" Name="ColorList" FileName="LayoutColorsListV2.lua" />
+	</Plugin>
+</GMA3>
